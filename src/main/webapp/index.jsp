@@ -113,7 +113,7 @@ span.psw {
   to {transform: scale(1)}
 }
 
-/* Change styles for span and cancel button on extra small screens */
+/* Change styles for span and cancel button on extra small screens  */
 @media screen and (max-width: 300px) {
   span.psw {
      display: block;
